@@ -1,3 +1,6 @@
 <?php
 
-echo "Guzzle動作確認成功";
+sleep(1);
+
+echo "takedajs";
+
