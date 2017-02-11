@@ -34,6 +34,6 @@ $client->sendAll($res, [
 
 // ベンチマークfinish
 //$time = microtime(true) - $time_start;
-//echo $time . "秒 <br />";
+//echo $time . "秒<br />";
 
 var_dump($results);
